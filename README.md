@@ -5,6 +5,6 @@
 Usage:  
 cd <android sources diretory>
 . build/envsetup.sh
-cd external && git clone git@github.com:edaplayer/android-i2c-tools.git
+cd external && git clone git@github.com:inugi-source/android-i2c-tools.git
 mmm android-i2c-tools
 ```
