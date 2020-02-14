@@ -8,3 +8,7 @@ cd <android sources diretory>
 cd external && git clone git@github.com:inugi-source/android-i2c-tools.git
 mmm android-i2c-tools
 ```
+2. you can find binaries
+```
+out/target/product/generic/system/bin/
+```
