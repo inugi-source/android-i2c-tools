@@ -12,7 +12,7 @@ $ mmm android-i2c-tools
 ```
 out/target/product/generic/system/bin/
 ```
-3. install binaries and run
+3. install binaries and run with adb
 ```
 $ cd out/target/product/generic/system/bin
 $ adb remount
